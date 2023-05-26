@@ -1,4 +1,7 @@
 .App {
+  width: 80%;
+  padding-top: 20px;
+  margin: 0 auto;
   text-align: center;
 }
 
